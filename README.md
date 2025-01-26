@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Tadeu Macena 😁
 
  <div>
-   <a href="https://github.com/TadeuMacena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TadeuMacena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadeuMacena&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/tadeumacena">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadeumacena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadeumacena&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
